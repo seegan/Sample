@@ -20,7 +20,7 @@ SET time_zone = "+00:00";
 -- Database: `benvin`
 --
 
-seegan Evan hello
+seegan Evan hi hello
 -- --------------------------------------------------------
 
 --
